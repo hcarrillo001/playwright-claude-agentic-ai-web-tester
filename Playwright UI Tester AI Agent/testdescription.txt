@@ -1,0 +1,8 @@
+Description
+1. Navigate to pizzahut.com
+2. Accept Cookies if you get a prompt.
+3. Verify location. Change carryout location. Find the closest location for zipcode 80111. Click continue
+4. Order One Medium "Supreme Pizza" and add it to cart.
+5. Navigate to cart.
+6. Reject Add ones, navigate to cart to see final total.
+7. Close Browser.
