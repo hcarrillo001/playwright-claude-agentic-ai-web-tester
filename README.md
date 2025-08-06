@@ -6,7 +6,7 @@ Using Playwrights MCP to automated Web Testing.
 
 
 🧪 Playwright MCP Demo
-This simple demo shows how natural language instructions in English can be used to control a web browser. Using Claude (LLM) integrated with Playwright MCP, the system automates browser actions based on plain English commands.
+This simple demo shows how natural language instructions in English can be used to control a web browser. Using Claude (LLM) integrated with Playwright MCP, the system automates browser actions based on plain English commands. The code does not have any playwright webdriver code. This testing is completly done using plain english language (testdescription.txt). 
 
 It leverages the LangChain Playwright tool to translate language inputs into executable browser steps.
 https://python.langchain.com/docs/integrations/tools/playwright/
