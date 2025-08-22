@@ -2,7 +2,10 @@
 Using Playwrights MCP to automated Web Testing. 
 
 
-
+💡 Vision & Future Potential
+While the current steps are simple and processing may take some time, this proof of concept shows promising potential:
+Extract test steps directly from tools like Quality Center (QC/ALM) or 
+something like Microsoft Azure Devops to read the test cases and have the automation run. 
 
 
 🧪 Playwright MCP Demo
@@ -25,7 +28,7 @@ While the current steps are simple and processing may take some time, this proof
 
 Run multiple agents simultaneously for parallel test execution.
 
-Extract test steps directly from tools like Quality Center (QC/ALM).
+
 
 Enable scalable web test automation using natural language.
 
